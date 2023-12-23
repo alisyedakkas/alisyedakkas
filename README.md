@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisyedakkas&label=Profile%20views&color=0e75b6&style=flat" alt="alisyedakkas" /> </p>
 
-- 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+- 🌱 I’m currently learning **Power BI, Excel, Python, SQL**
 
 - 📫 How to reach me **alisyedakkas2424@gmail.com**
 
